@@ -6,7 +6,7 @@ export default function Post() {
   return (
     <div>
       <h3>Post #{router.query.id}</h3>
-      <p>Lorem ipsum</p>
+      <p>Lorem ipsum sic</p>
       <Link href="/">
         <a>Back to blog</a>
       </Link>
